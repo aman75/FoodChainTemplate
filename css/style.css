@@ -1,0 +1,77 @@
+.logo{
+  font-size: 30px;
+}
+.material-icons {
+            vertical-align: middle;
+        }
+
+        .navbar {
+            background-color: #121929;
+        }
+        .img{
+	background-image: url('https://assets.limetray.com/assets/image_manager/uploads/7522/indian-slide-2.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	//border:1px solid;
+	height: 600px;
+		}		
+	
+       #directives{
+       	text-decoration: none;
+       }
+       body{
+       	font-family: TimesNewRoman;
+       }
+       #firstName{
+       	opacity: 0.7;
+       	outline: none;
+       	background-color: black;
+       	border: none;
+        width: 38%;
+       }
+       .hot{
+        font-size: 50px;
+       }
+       #dish{
+        font-size: 25px; 
+        color: ghostwhite;
+       }
+       #serves{
+        color: #121929;
+       }
+       #delivery{
+        color: darkblue;
+       }
+       .gal1{
+        height: 500px;
+        width: 100%;
+       }
+       .gal2{
+        height: 500px;
+        width: 100%;
+       }
+       .gal3{
+        height: 500px;
+        width: 100%;
+       }
+       hr{
+        border: 1px solid lightgrey;
+       }
+       .gal{
+        color: #121929;
+       }
+       .unavail{
+        color: white;
+       }
+       .footer{
+        text-align: center;
+       }
+       p{
+        font-size: 40px;
+        color: ghostwhite;
+        margin-top: 200px;
+       }
+       .gallery{
+            padding: 0;
+            margin: 0;
+       }
